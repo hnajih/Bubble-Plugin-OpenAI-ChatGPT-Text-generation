@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "artificial intelligence (AI)",
+        "1": "mobile",
+        "2": "internationalization",
+        "3": "blog",
+        "4": "news"
+    },
+    "description": "OpenAI provides simple APIs to use a large language model to generate text from a prompt, as you might using ChatGPT. These models have been trained on vast quantities of data to understand multimedia inputs and natural language instructions. From these prompts, models can generate almost any kind of text response, like code, mathematical equations, structured JSON data, or human-like prose.",
+    "image": "//meta-q.cdn.bubble.io/f1731669159674x471670408550249860/2a62c34e0d217a7aa14645ce114d84b3.jpg",
+    "license": "open_source",
+    "link": "https://platform.openai.com/docs/guides/text-generation",
+    "name": "OpenAI ChatGPT Text generation"
+}
